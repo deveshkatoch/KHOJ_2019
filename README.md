@@ -1,0 +1,1 @@
+Hello world. This is a cloned repository for rgb lights that work on pattern produced by music?
